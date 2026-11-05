@@ -1,0 +1,19 @@
+{
+  "thuat_toan": "Random Forest (tu cai dat)",
+  "tham_so": {
+    "criterion": "entropy",
+    "max_depth": 8,
+    "min_samples_leaf": 3,
+    "max_features": 1,
+    "n_estimators": 100,
+    "min_samples_split": 2,
+    "vote": "soft",
+    "random_state": 42
+  },
+  "seed": 42,
+  "k_fold": 5,
+  "oob_accuracy": 0.7988636363636363,
+  "accuracy_train": 0.9028409090909091,
+  "accuracy_test": 0.7909090909090909,
+  "f1_macro_test": 0.7838080733923024
+}

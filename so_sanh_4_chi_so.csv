@@ -1,0 +1,6 @@
+﻿,Decision Tree,Random Forest,Δ (RF - DT)
+Accuracy,0.7568,0.7909,0.0341
+Precision (macro),0.7556,0.7914,0.0358
+Recall (macro),0.7568,0.7909,0.0341
+F1 (macro),0.7535,0.7838,0.0303
+F1 (weighted),0.7535,0.7838,0.0303
